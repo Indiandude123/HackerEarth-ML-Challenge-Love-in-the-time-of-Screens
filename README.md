@@ -1,3 +1,3 @@
 # HackerEarth-ML-Challenge-Love-in-the-time-of-Screens
 
-The last code snippet, is not optimized. I tried to do a raw thing without thinking about the time complexity or anything. My apologies.
+The last code snippet where I try to satisfy the conditions of this contest, is not optimized. I used a brute force type method to impute with zeroes to satisfy the condition without thinking about the time complexity or anything. My apologies.
